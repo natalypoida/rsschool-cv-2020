@@ -17,3 +17,11 @@ Novice frontend-developer. Confident knowledge of HTML, CSS. Know how to use Git
 ### First coding example: ### 
 [https://github.com/natalypoida/100daysofcoding](https://github.com/natalypoida/100daysofcoding)
 
+### Education: ###
+- Karaganda State University, Primary School Education, Primary School Teacher (1998-2002)
+- The Rolling Scopes: «JavaScript Development Online» (September. 2019 - now)  
+ [https://school.rollingscopes.com/](https://school.rollingscopes.com/)
+- Codacademy (February 2019 - now)  
+ [https://www.codecademy.com/](https://www.codecademy.com/)
+ - HTML Acacdemy (May, 2018 - now) 
+ [https://htmlacademy.ru](https://htmlacademy.ru/)
