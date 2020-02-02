@@ -25,3 +25,13 @@ Novice frontend-developer. Confident knowledge of HTML, CSS. Know how to use Git
  [https://www.codecademy.com/](https://www.codecademy.com/)
  - HTML Acacdemy (May, 2018 - now) 
  [https://htmlacademy.ru](https://htmlacademy.ru/)
+
+### Other Skills and additional education: ###
+English Level B2+ (according to the test results at the Epam Trainig Centre)  
+Lewis School of English, Southampton, England (2006)  
+Higher Intermediate level  
+
+### Personal Skills: ###
+Keen, open to communication, honest, hard-working, good team working skills,   
+connect easily with people, good listener, sensitive to others, self-motivated learning and development  
+of personal and professional skills.
